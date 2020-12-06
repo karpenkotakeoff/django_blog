@@ -4,7 +4,7 @@ On this blog you can create posts, and tags if you have admin rights, if not, yo
 
 ![img1.png](Screenshot_1.png)
 
-##### Lets try create a post
+### Lets try create a post
 
 Firstable, we must log in as admin
 
