@@ -33,4 +33,3 @@ And can create new tag.
 ![img7.png](Screenshot_7.png)
 
 Thanks for your time :)
-P.S. and sorry for horrible english
