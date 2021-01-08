@@ -1,4 +1,4 @@
-# Simple Django Blog
+# Simple Blog powered by Django
 
 On this blog you can create posts, and tags if you have admin rights, if not, you can just read posts.
 
